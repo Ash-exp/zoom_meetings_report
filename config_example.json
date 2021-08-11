@@ -1,0 +1,9 @@
+{
+    "zoom-token": "zoom access token",
+    "report-mailer": {
+        "active": true/false,
+        "mail-to": ["example1@gmail.com", "example2@gmail.com"],
+        "mail-id": "sender's_mail@gmail.com",
+        "mail-password": "mailid_pass"
+    }
+}
